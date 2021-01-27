@@ -1,5 +1,6 @@
 body{
     background-color: #FFEFD5 ;
+    
     color: #8B4513 ;
 }
 table{
@@ -24,6 +25,11 @@ table{
 .negyedik{
     background-color: rgba(255, 123, 255, 0.671);
 }
-
+#fejlec{
+    background: url("szines.jpg");
+}
+li{
+    list-style-image: url("chili-pepper-icon.gif");
+}
 
 
